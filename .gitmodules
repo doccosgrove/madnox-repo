@@ -1,0 +1,4 @@
+[submodule "skin.aeon.madnox"]
+	path = skin.aeon.madnox
+	url = git://github.com/MadMikeDoc/skin.aeon.madnox.git
+	branch = Isengard
